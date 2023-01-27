@@ -1,0 +1,1 @@
+Automatic build of caddy with github.com/caddy-dns/cloudflare
